@@ -1,5 +1,5 @@
 # CrackME:Managing-Password-Security
-### CrackME is a highly Secured Password managing and Generating system completely built using Python Programming language.
+### CrackME is a highly Secured Password Managing and Generating system completely built using Python Programming language.
 
 ## Features
 1.Generate 100% secure password.
