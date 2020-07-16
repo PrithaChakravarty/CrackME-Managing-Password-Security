@@ -12,3 +12,12 @@
 
 ## Clone with HTTPS
 git clone https://github.com/PrithaChakravarty/CrackME-Secure-Password-Generator.git
+
+## Clone with SSH
+git clone git@github.com:PrithaChakravarty/CrackME-Secure-Password-Generator.git
+
+
+## Generating a password via following command in your terminal:
+python main.py
+
+
