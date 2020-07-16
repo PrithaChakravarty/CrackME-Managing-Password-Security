@@ -11,3 +11,4 @@
 4.Open Source
 
 ## Clone with HTTPS
+git clone https://github.com/PrithaChakravarty/CrackME-Secure-Password-Generator.git
